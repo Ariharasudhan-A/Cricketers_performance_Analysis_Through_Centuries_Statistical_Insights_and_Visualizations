@@ -17,11 +17,11 @@ The dataset used in this project includes detailed performance records of a numb
 
 A sample visualization of a player’s century trend over the years:
 
-![Century Trend](![image](https://github.com/user-attachments/assets/37d3b677-99be-4abf-81a1-b904460f328a)
+[image](https://github.com/user-attachments/assets/37d3b677-99be-4abf-81a1-b904460f328a)
 
 A sample Comparion between players:
 
-![Comparison](![image](![image](https://github.com/user-attachments/assets/849e36e4-3e98-4890-8cf6-d74fe52184b3)
+[image](![image](https://github.com/user-attachments/assets/849e36e4-3e98-4890-8cf6-d74fe52184b3)
 
 
 ## Results
