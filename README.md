@@ -21,7 +21,7 @@ A sample visualization of a player’s century trend over the years:
 
 A sample comparison between players:
 
-![Player Comparison](https://github.com/user-attachments/assets/849e36e4-3e98-4890-8cf6-d74fe52184b3)
+![Player Comparison](https://github.com/user-attachments/assets/ac41f369-bcfa-4671-aa1c-a2225eb94a91)
 
 ## Results
 
