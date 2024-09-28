@@ -1,8 +1,8 @@
-# Cricketers_performance_Analysis_Through_Centuries_Statistical_Insights_and_Visualizations
+# Cricketers Performance Analysis Through Centuries: Statistical Insights and Visualizations
 
 ## Overview
 
-The objective of this project is to analyze and compare cricket players century performance over time. The analysis includes data loading, preprocessing and visualizations to understand the trends and patterns in century scores. The project focuses on key insights such as the number of centuries per year and performance against various teams in different conditions.
+The objective of this project is to analyze and compare cricket players' century performance over time. The analysis includes data loading, preprocessing, and visualizations to understand the trends and patterns in century scores. The project focuses on key insights such as the number of centuries per year and performance against various teams in different conditions.
 
 ### Key Goals:
 - Load and preprocess player performance data.
@@ -11,25 +11,24 @@ The objective of this project is to analyze and compare cricket players century 
   
 ## Data
 
-The dataset used in this project includes detailed performance records of a number of cricket players. The primary data sources consist of player-wise match statistics, focusing on century counts, runs, venue etc.
+The dataset used in this project includes detailed performance records of a number of cricket players. The primary data sources consist of player-wise match statistics, focusing on century counts, runs, venues, etc.
 
-### Sample Visualization:
+### Sample Visualizations:
 
 A sample visualization of a player’s century trend over the years:
 
-[image](https://github.com/user-attachments/assets/37d3b677-99be-4abf-81a1-b904460f328a)
+![Century Trend](https://github.com/user-attachments/assets/37d3b677-99be-4abf-81a1-b904460f328a)
 
-A sample Comparion between players:
+A sample comparison between players:
 
-[image](![image](https://github.com/user-attachments/assets/849e36e4-3e98-4890-8cf6-d74fe52184b3)
-
+![Player Comparison](https://github.com/user-attachments/assets/849e36e4-3e98-4890-8cf6-d74fe52184b3)
 
 ## Results
 
 The analysis provides key insights into century performance, showing:
 - The peak years of players in terms of century counts.
 - Player performance consistency over time.
-- Insights into player effectiveness against specific teams or in specific conditions.
+- Insights into player effectiveness against specific teams or in different conditions.
 - Performance comparison between players.
 
 ## License
